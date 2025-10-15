@@ -21,7 +21,7 @@ echo
 echo
 
 echo "Installing Python3 graphical libs"
-sudo apt install libappindicator3-dev gir1.2-appindicator3-0.1
+sudo apt install gir1.2-appindicator3-0.1
 
 echo
 echo
