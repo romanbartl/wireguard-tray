@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Webari Trays Applications
+Exec=/usr/local/bin/wireguard_tray/trays_startup.sh
+X-GNOME-Autostart-enabled=true
+Terminal=false

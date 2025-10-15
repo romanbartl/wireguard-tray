@@ -1,0 +1,13 @@
+{
+  "tray_icon": "/usr/local/bin/wireguard_tray/wireguard/icon.png",
+  "menu": [
+    {
+      "label": "Start Webari",
+      "command": "pkexec /usr/local/bin/wireguard_tray/wireguard/webari_up.sh"
+    },
+    {
+      "label": "Stop Webari",
+      "command": "pkexec /usr/local/bin/wireguard_tray/wireguard/webari_down.sh"
+    }
+  ]
+}
